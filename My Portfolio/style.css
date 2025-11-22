@@ -1,0 +1,107 @@
+nav {
+    background-color: #333;
+    color: #edeaf5;
+    padding: 1em;
+    text-align: left;
+}
+
+nav ul {
+    list-style: none;
+    margin: 6;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a :hover {
+    color: #3e29b4;
+}
+
+#bio {
+    background-color: #1a95a5;
+    padding: 20px;
+    text-align: center;
+}
+
+#bio img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#skils {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#skills li {
+    background-color: #f7f7f7;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#experience {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.experience-item {
+    margin-bottom: 20px;
+}
+
+.experience-item h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.experience-item ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.experience-item li {
+    margin-bottom: 10px;
+}
+
+#contact {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#contact ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#contact li {
+    margin-bottom: 10px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+#contact a:hover {
+    color: #23527c;
+}
+
